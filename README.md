@@ -17,6 +17,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##Applied Concepts
+- [Models](https://laravel.com/docs/8.x/eloquent)
+- [Controllers](https://laravel.com/docs/8.x/controllers)
+- [Api Routes](https://laravel.com/docs/8.x/routing) 
+- [Migrations](https://laravel.com/docs/8.x/migrations) 
+- [Eloquent:Relationships (1-1 && 1-M) - hasOne, hasMany, belongsTo, belongsToMany](https://laravel.com/docs/8.x/eloquent-relationships)
+
+##Database Diagram
+<p align="center">
+<img src="https://i.ibb.co/xYdrzJm/entidad-relacion.jpg" height="350" width="900">
+</p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
